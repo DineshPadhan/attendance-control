@@ -1,12 +1,7 @@
 {
   "AIESS": {
-    "locked": false,
+    "locked": true,
     "password_hash": "",
     "message": ""
   },
-  "OS-CIT": {
-    "locked": false,
-    "password_hash": "",
-    "message": ""
-  }
 }
