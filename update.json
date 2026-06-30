@@ -1,5 +1,5 @@
 {
-  "version": "3.0.5",
-  "url": "https://github.com/DineshPadhan/attendance-control/raw/main/releases/download/v3.0.5/Attendly_App.zip",
-  "notes": "v3.0.5 - reliable onedir build (no DLL errors); installs & restarts automatically."
+  "version": "3.0.6",
+  "url": "https://github.com/DineshPadhan/attendance-control/raw/main/releases/download/v3.0.6/Attendly_App.zip",
+  "notes": "v3.0.6 - more reliable build (fixes DLL load errors) with automatic install & restart."
 }
