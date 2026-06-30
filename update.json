@@ -1,5 +1,5 @@
 {
   "version": "3.0.2",
-  "url": "https://github.com/DineshPadhan/attendance-control/raw/main/releases/download/v3.0.2/Attendly_Desktop.exe",
-  "notes": "v3.0.2 - reliable auto-update (installs & restarts automatically). Please update."
+  "url": "https://github.com/DineshPadhan/attendance-control/raw/main/releases/download/v3.0.2/Attendly_App.zip",
+  "notes": "v3.0.2 - more reliable build (fixes DLL load errors) with automatic install & restart."
 }
