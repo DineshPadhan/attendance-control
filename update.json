@@ -1,5 +1,5 @@
 {
-  "version": "3.0.7",
-  "url": "https://github.com/DineshPadhan/attendance-control/raw/main/releases/download/v3.0.7/Attendly_App.zip",
-  "notes": "Smoother updates: automatic retry on unstable internet, clearer error messages, one-click Retry."
+  "version": "3.0.8",
+  "url": "https://github.com/DineshPadhan/attendance-control/raw/main/releases/download/v3.0.8/Attendly_App.zip",
+  "notes": "New: redesigned, branded sign-in screen (your logo + institute name)."
 }
