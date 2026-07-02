@@ -1,5 +1,5 @@
 {
-  "version": "3.0.8",
-  "url": "https://github.com/DineshPadhan/attendance-control/raw/main/releases/download/v3.0.8/Attendly_App.zip",
-  "notes": "New: redesigned, branded sign-in screen (your logo + institute name)."
+  "version": "3.0.9",
+  "url": "https://github.com/DineshPadhan/attendance-control/raw/main/releases/download/v3.0.9/Attendly_App.zip",
+  "notes": "New: app icon, subscription expiry control, daily admin report email. Plus the branded sign-in."
 }
