@@ -1,5 +1,5 @@
 {
   "version": "3.0.7",
   "url": "https://github.com/DineshPadhan/attendance-control/raw/main/releases/download/v3.0.7/Attendly_App.zip",
-  "notes": "Update of v3.0.7"
+  "notes": "Smoother updates: automatic retry on unstable internet, clearer error messages, one-click Retry."
 }
