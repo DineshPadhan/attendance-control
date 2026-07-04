@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/DineshPadhan/attendance-control/raw/main/releases/download/v1.0.0/Attendly_App.zip",
-  "notes": "Attendly v1.0.0 \u2014 separate Account and Email settings windows, institute logo as the app icon."
+  "version": "1.0.1",
+  "url": "https://github.com/DineshPadhan/attendance-control/raw/main/releases/download/v1.0.1/Attendly_App.zip",
+  "notes": "Polished sign-in screen, loading indicator, course editing (edit/discontinue/delete/search by code), payment renewal reminders, cleaner menus, new multi-sheet import template."
 }
