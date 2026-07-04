@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/DineshPadhan/attendance-control/raw/main/releases/download/v1.0.2/Attendly_App.zip",
-  "notes": "Modern Material design colors, faster feedback with loading indicator, Holidays sheet in import template, flexible import (only sheets present are imported), fully customizable app name/tagline/support line."
+  "version": "1.0.3",
+  "url": "https://github.com/DineshPadhan/attendance-control/raw/main/releases/download/v1.0.3/Attendly_App.zip",
+  "notes": "Fixed loading screen staying on screen; colorful modern dashboard cards; refreshed tabs and tables."
 }
