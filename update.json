@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/DineshPadhan/attendance-control/raw/main/releases/download/v1.0.3/Attendly_App.zip",
-  "notes": "Fixed loading screen staying on screen; colorful modern dashboard cards; refreshed tabs and tables."
+  "version": "1.0.4",
+  "url": "https://github.com/DineshPadhan/attendance-control/raw/main/releases/download/v1.0.4/Attendly_App.zip",
+  "notes": "At-Risk threshold now applies automatically as you type; colour-coded rows (green/amber/red) across dashboard, at-risk and defaulter tables."
 }
