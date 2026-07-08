@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/DineshPadhan/attendance-control/raw/main/releases/download/v1.1.0/Attendly_App.zip",
-  "notes": "Security hardening (stronger sessions, CSRF protection, login rate limiting), duplicate-scan guard, installable mobile web app (PWA) with new Live attendance dashboard, and internal reliability improvements."
+  "version": "1.1.1",
+  "url": "https://github.com/DineshPadhan/attendance-control/raw/main/releases/download/v1.1.1/Attendly_App.zip",
+  "notes": "Security hardening (stronger sessions, CSRF protection, login rate limiting), duplicate-scan guard, installable mobile web app (PWA) with new Live attendance dashboard, and an important update-reliability fix."
 }
