@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/DineshPadhan/attendance-control/raw/main/releases/download/v1.1.1/Attendly_App.zip",
-  "notes": "Security hardening (stronger sessions, CSRF protection, login rate limiting), duplicate-scan guard, installable mobile web app (PWA) with new Live attendance dashboard, and an important update-reliability fix."
+  "version": "1.2.0",
+  "url": "https://github.com/DineshPadhan/attendance-control/raw/main/releases/download/v1.2.0/Attendly_App.zip",
+  "notes": "New: Enquiries tab to track admission leads with follow-up reminders and one-click convert to student. Front-desk (scan-only) web login for staff. Plan-based student limits with in-app upgrade prompts."
 }
