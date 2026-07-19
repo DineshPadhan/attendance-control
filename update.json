@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/DineshPadhan/attendance-control/raw/main/releases/download/v1.2.1/Attendly_App.zip",
-  "notes": "The app now works offline for up to 3 days after its last online license check (provider-adjustable per institute), so short internet outages never block attendance. Clearer message when the offline period runs out."
+  "version": "1.3.0",
+  "url": "https://github.com/DineshPadhan/attendance-control/raw/main/releases/download/v1.3.0/Attendly_App.zip",
+  "notes": "New: monthly attendance register PDF, referral tracking with Top Referrers report, daily encrypted backup by email, renewal by UPI QR scan, and 30-day trial support."
 }
