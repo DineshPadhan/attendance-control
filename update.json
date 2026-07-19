@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/DineshPadhan/attendance-control/raw/main/releases/download/v1.2.0/Attendly_App.zip",
-  "notes": "New: Enquiries tab to track admission leads with follow-up reminders and one-click convert to student. Front-desk (scan-only) web login for staff. Plan-based student limits with in-app upgrade prompts."
+  "version": "1.2.1",
+  "url": "https://github.com/DineshPadhan/attendance-control/raw/main/releases/download/v1.2.1/Attendly_App.zip",
+  "notes": "The app now works offline for up to 3 days after its last online license check (provider-adjustable per institute), so short internet outages never block attendance. Clearer message when the offline period runs out."
 }
